@@ -27,4 +27,4 @@
         <img src="https://www.kasandbox.org/programming-images/landscapes/beach-sunset.png" alt="Sunset at Singapore"width="300">
         
     </body>
-</html>
+<html>
